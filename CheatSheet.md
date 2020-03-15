@@ -1,11 +1,8 @@
-#Burp Cheat Sheet
+# Burp Cheat Sheet
 
 ### A cheat sheet for PortSwigger Burp Suite application security testing framework.
 
-
-##Hot Keys
-
-##Global
+## Global
 
 **Send to Repeater**
 
@@ -59,7 +56,7 @@
 
 > Ctrl+Equals
 
-##Editor
+## Editor
 
 **Cut**
 
